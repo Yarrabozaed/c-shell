@@ -18,3 +18,7 @@ commands:
 - help: manual descriptions for wash
 - exit: exists shell
 - man: prints the README if no specific command manual is requested, can also be done by typing "man wash." If a specific command is requested, the command's man is given.
+
+- In development:
+  - Data processing in R for CSV files.
+  - Basic data-wrnagling for CSV/XL files in R.
