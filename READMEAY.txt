@@ -4,7 +4,7 @@ Purpose: CSC 3350 class
 Last edit: Sat June 5th, 2022
 
 how to use:
-Navigate to the folder with the wash.c file
+cd wash_AbozaedY (Navigate to the folder with the wash.c file)
 To build the shell, run gcc wash.c -o wash
 To start the shell, execute ./wash
 If you would like to print all the commands in the shell at execution, run ./wash -h
